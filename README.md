@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diego Velásquez
-- 👀 I’m interested interested in computer vision, deep learning, robotics and autonomous agents.
+- 👀 I’m interested interested in robotics, autonomous systems and computer vision.
 - 🌱 I’m currently learning about algorithms related to deep learning
 - 💞️ I’m looking to collaborate on computer vision
 - 📫 How to contact me.. diegoenrique91@hotmail.com
