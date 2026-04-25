@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diego Velásquez
 - 👀 I’m interested interested in robotics, autonomous systems and computer vision.
-- 🌱 I’m currently learning about algorithms related to deep learning
-- 💞️ I’m looking to collaborate on computer vision
-- 📫 How to contact me.. diegoenrique91@hotmail.com
+- 🌱 I’m currently learning about haptics and surgical robotics
+- 💞️ I’m looking to collaborate on computer vision, haptic systems, 
+- 📫 How to contact me.. diego.velasquez.it@gmail.com
